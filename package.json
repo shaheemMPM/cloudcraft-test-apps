@@ -1,0 +1,22 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaheemMPM/cloudcraft-test-apps.git"
+  },
+  "author": "Mohammed Shaheem P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaheemMPM/cloudcraft-test-apps/issues"
+  },
+  "homepage": "https://github.com/shaheemMPM/cloudcraft-test-apps#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
